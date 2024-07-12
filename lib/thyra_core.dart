@@ -1,0 +1,1 @@
+library thyra_core;

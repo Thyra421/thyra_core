@@ -1,0 +1,24 @@
+name: thyra_core
+description: 'Essential features for Flutter'
+version: 0.0.1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+  flutter: '>=1.17.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_hooks: ^0.20.5
+  flutter_inappwebview: ^6.0.0
+  flutter_secure_storage: ^9.0.0
+  package_info_plus: ^8.0.0
+  permission_handler: ^11.3.1
+  shimmer: ^3.0.0
+
+dev_dependencies:
+  flutter_lints: ^3.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
